@@ -1,0 +1,12 @@
+[submodule "Project-Route-Planning"]
+	path = Project-Route-Planning
+	url = https://github.com/aravind93raja/Project-Route-Planning
+[submodule "Project-System-Monitor"]
+	path = Project-System-Monitor
+	url = https://github.com/aravind93raja/Project-System-Monitor
+[submodule "Project-Memory-Management-Chatbot"]
+	path = Project-Memory-Management-Chatbot
+	url = https://github.com/aravind93raja/Project-Memory-Management-Chatbot
+[submodule "Project-Concurrent-Traffic-Simulation"]
+	path = Project-Concurrent-Traffic-Simulation
+	url = https://github.com/aravind93raja/Project-Concurrent-Traffic-Simulation
