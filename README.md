@@ -2,6 +2,14 @@
 
 ## Collection of Projects part of the [C++ NanoDegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) program by Udacity
 
+The furthur details for every project :
+
+1) Setup & Build Instruction
+
+2) Sample Results 
+
+have been provided in the README.md of each repository 
+
 ### 1) Project - Route Planning
 
 Use OpenStreetMap data and look at IO2D map display code. 
